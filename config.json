@@ -1,0 +1,14 @@
+{
+    "hosts": [
+        {
+            "scheme": "https",
+            "host": "aws.amazon.com",
+            "frontend_hostname": "sus.local"
+        }
+    ],
+    "frontends": [
+        {
+            "hostname": "sus.local"
+        }
+    ]
+}
